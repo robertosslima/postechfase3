@@ -1,6 +1,6 @@
 FROM --platform=linux/amd64 openjdk:17
 
-EXPOSE 8080
+EXPOSE 8090
 
 WORKDIR /app
 
